@@ -1,21 +1,21 @@
-# peernetwork
+# Food Inspection Open Data
 
 [![Join the chat at https://gitter.im/codeforcroatia/sanitarnipodaci](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codeforcroatia/sanitarnipodaci?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-Draft of the Peer Network marketing website for Code for America
+
+Draft of the Peer Network marketing website for Code for Croatia
 
 ## Preview
 You can see a running version of the site at
-[http://codeforamerica.github.com/peernetwork/][preview].
+[http://codeforcroatia.github.io/sanitarnipodaci/][preview].
 
-[preview]: http://codeforamerica.github.com/peernetwork/
+[project page]: http://codeforcroatia.org/projects/otvoreni_podaci_sanitarne_inspekcije
 
 ## Installation
-This site is in written in HTML and CSS with a little javascript -- nothing fancy required (though a few jQuery plugins and Google fonts help). By forking the repository and maintaining a branch named "gh-pages" you can host the site with GitHub Pages at "http://[yourusername].github.com/peernetwork/"
+This site is in written in HTML and CSS with a little javascript -- nothing fancy required (though a few jQuery plugins and Google fonts help). By forking the repository and maintaining a branch named "gh-pages" you can host the site with GitHub Pages at "http://[yourusername].github.io/sanitarnipodaci/"
 
 
 ## Contributing
-In the spirit of [free software][free-sw], **everyone** is encouraged to help
-improve this project.
+In the spirit of [free software][free-sw], **everyone** is encouraged to help improve this project.
 
 [free-sw]: http://www.fsf.org/licensing/essays/free-sw.html
 
@@ -57,6 +57,4 @@ a bug.
 Copyright (c) 2012 Code for America. See [LICENSE][] for details.
 
 [license]: https://github.com/codeforamerica/peernetwork/blob/gh-pages/LICENSE.md
-
-
 
