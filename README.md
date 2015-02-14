@@ -8,7 +8,7 @@ Draft of the Peer Network marketing website for Code for Croatia
 You can see a running version of the site at
 [http://codeforcroatia.github.io/sanitarnipodaci/][preview].
 
-[project page]: http://codeforcroatia.org/projects/otvoreni_podaci_sanitarne_inspekcije
+[preview]: http://codeforcroatia.github.io/sanitarnipodaci/
 
 ## Installation
 This site is in written in HTML and CSS with a little javascript -- nothing fancy required (though a few jQuery plugins and Google fonts help). By forking the repository and maintaining a branch named "gh-pages" you can host the site with GitHub Pages at "http://[yourusername].github.io/sanitarnipodaci/"
